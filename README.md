@@ -68,6 +68,6 @@ Mini-Project-3/
 
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Authors
 
 Zeyad Tantawy – Embedded Systems Engineer
